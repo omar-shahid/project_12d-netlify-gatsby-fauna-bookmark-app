@@ -1,0 +1,9 @@
+type Item {
+  name: String!
+  url: String!
+  description: String
+}
+
+type Query {
+  allItems: [Item!]
+}
