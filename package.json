@@ -21,8 +21,10 @@
     "@emotion/react": "^11.1.5",
     "@emotion/styled": "^11.1.5",
     "axios": "^0.21.1",
+    "formik": "^2.2.6",
     "framer-motion": "^3.10.0",
     "gatsby": "^3.0.0",
+    "netlify-cli": "^3.10.6",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   }

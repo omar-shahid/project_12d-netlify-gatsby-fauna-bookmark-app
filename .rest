@@ -1,0 +1,8 @@
+POST http://localhost:8888/.netlify/functions/createBookmark
+Content-Type: application/json
+
+{
+    "name": "from rest client",
+    "url": "https://github.com/",
+    "description": "GitHub URL bookmark"
+}

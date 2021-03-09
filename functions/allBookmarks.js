@@ -6,6 +6,7 @@ exports.handler = async (ev, ctx, cb) => {
       query: `{
             allItems{
               data{
+                _id
                 name
                 url
                 description
